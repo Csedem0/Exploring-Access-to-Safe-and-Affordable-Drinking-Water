@@ -1,71 +1,136 @@
-## Exploring Access to Safe and Affordable Drinking Water 1
+## Exploring Access to Safe and Affordable Drinking Water – Part A
 
-As part of my integrated project on Access to Safe and Affordable Drinking Water, I explored how to effectively import, clean, and understand real-world datasets using Google Sheets.
+This repository documents Part A (Week 1) of my integrated project focused on understanding and improving access to safe and affordable drinking water.
+This phase centered on learning how to import, clean, explore, and interpret real-world datasets using Google Sheets.
 
-This week, my focus was on:
+📌 Project Overview
 
-Importing CSV files, including both comma-separated and semicolon-separated formats
+The purpose of Part A was to work hands-on with raw data, understand its structure, and prepare it for deeper analysis.
+Instead of rushing into visuals or conclusions, this week was about laying a strong foundation by learning how to handle data the right way.
 
-Understanding the structure, meaning, and relationships within each dataset
+🔍 Key Activities
 
-Creating clear data views and visuals to reveal key patterns and insights
+Imported multiple CSV files, including both comma-separated and semicolon-separated formats
 
-I also recorded a short video tutorial https://lnkd.in/ewts7Ftq demonstrating how to handle a comma- and semicolon-separated CSV file, a common real-world challenge in data projects.
+Examined dataset structure and relationships to understand meaning and context
 
-🔗 Here’s what I shared:
+Created organized data views and visuals for easier exploration
 
-Link to the dataset https://lnkd.in/eKxhRd93
+Recorded a video tutorial demonstrating how to manage mixed-separator CSV files—an essential real-world skill
 
-Link to understanding the dataset https://lnkd.in/eTeqf-KT
+🎯 Project Goal
 
-Link to my working Google Sheet https://lnkd.in/eC-EBPWV
+Not just to load data, but to understand it deeply, clean it properly, and prepare it in a way that enables meaningful questions to be asked—and answered.
 
-Link to the video tutorial that summarised the project Part A https://lnkd.in/es5e-H6e
+🧠 What I Accomplished
 
-The goal wasn’t just to load data, but to truly understand it, to prepare it in a way that allows meaningful questions to be asked and answered.
+Successfully accessed, loaded, and prepared data for analysis
 
-I successfully:
+Used formulas, aggregations, and summary statistics
 
-Accessed and prepared data for analysis
+Built visualizations that revealed useful patterns
 
-Used formulas, aggregations, and summary statistics to explore the dataset
+Interpreted trends that connect directly to real-world water access challenges
 
-Created data visualizations that revealed valuable insights
+These steps established the groundwork for more advanced analysis in the next phase.
 
-Interpreted patterns that supported real-world decision-making
+🎥 Project Resources
 
-I’m looking forward to Part B of the project, where I’ll dive deeper into data analysis and visualization to uncover actionable insights for improving access to clean water.
+Dataset: https://lnkd.in/eKxhRd93
 
-💬 I’d love to hear your thoughts, how do you approach data preparation when working with diverse datasets?
+Understanding the Dataset: https://lnkd.in/eTeqf-KT
+
+My Working Google Sheet: https://lnkd.in/eC-EBPWV
+
+Video Tutorial (Part A Summary): https://lnkd.in/es5e-H6e
+
+Bonus Tutorial: Handling Comma & Semicolon CSV Files: https://lnkd.in/ewts7Ftq
+
+📈 Skills Demonstrated
+
+Data Import & Formatting
+
+Data Cleaning & Preparation
+
+Aggregations & Summary Statistics
+
+Exploratory Data Analysis (EDA)
+
+Google Sheets Data Visualization
+
+⏭️ Looking Ahead
+
+Part B dives deeper into data transformation, trend analysis, and visualization to extract actionable insights that support real-world decision-making for improving access to clean water.
+
+💬 Discussion
+
+How do you approach data preparation when dealing with diverse or messy datasets?
+Feel free to share thoughts, suggestions, or open a discussion.
 
 
 
 
+## Exploring Access to Safe and Affordable Drinking Water – Part B
 
-## Exploring Access to Safe and Affordable Drinking Water 2
+This repository contains Part B of my ongoing project analyzing real-world data related to access to safe and affordable drinking water.
+After laying the foundation in Week 1, this phase focused on transforming raw data into analysis-ready information that can support meaningful insights.
 
-Building on last week’s foundation, this week I put theory into action, diving deeper into the data preparation process and learning how to transform and clean data to make it ready for meaningful analysis.
+📌 Project Overview
 
-As part of my ongoing project on Access to Safe and Affordable Drinking Water, I completed the second phase: Transforming the Data.
+The goal of Week 2 was to take unstructured, inconsistent datasets and refine them using structured transformation techniques. This meant going beyond surface-level cleaning to ensure the data was accurate, reliable, and ready for deeper exploration.
 
-This stage was all about improving data quality and accuracy, focusing on:
+This phase emphasized practical data preparation—the kind that underpins sound decision-making in real-world water accessibility challenges.
 
-- Data formatting and cleaning
+🔍 Key Activities
 
-- Using spreadsheet functions to transform data
+Data Formatting & Cleaning: Correcting inconsistencies, fixing errors, and structuring the dataset
 
-- Understanding samples and distributions
+Spreadsheet Transformation Functions: Using formulas to standardize, categorize, and prepare variables
 
-- Identifying trends and testing assumptions
+Understanding Samples & Distributions: Exploring how the data behaves and what patterns it reveals
 
-I also revisited key Week 1 concepts such as data import, formulas, charts, and descriptive statistics, applying them this time with more precision and confidence.
+Trend Identification & Assumption Testing: Analyzing patterns to validate hypotheses
 
-By the end of Week 2, I successfully moved from raw, unstructured data to refined, reliable, and analysis-ready data, the kind that forms the backbone of accurate insights and informed decisions.
+Revisiting Week 1 Concepts with greater precision—formulas, descriptive statistics, charts, and data imports
 
-🔗 Here’s what I shared:
+🧠 What I Achieved
 
-Link to the dataset and my working Google Sheet together https://lnkd.in/eQq-Nn25
+By the end of Part B, I successfully transformed raw, unorganized records into refined, analysis-ready data by:
 
-Link to understanding the dataset https://lnkd.in/egEy2pvW
+Applying cleaning and transformation techniques
 
-Link to the video tutorial that briefly summarised the project Part B https://lnkd.in/e23MRzXe
+Producing clearer structures for better interpretation
+
+Enhancing the reliability of insights
+
+Preparing the dataset for deeper analysis in the next phase
+
+This refined dataset now serves as a strong foundation for more advanced analytical work in Part C.
+
+🎥 Project Resources
+
+Dataset + Working Google Sheet: https://lnkd.in/eQq-Nn25
+
+Understanding the Dataset: https://lnkd.in/egEy2pvW
+
+Video Summary (Part B): https://lnkd.in/e23MRzXe
+
+📈 Skills Demonstrated
+
+Data Cleaning & Transformation
+
+Spreadsheet Formulas (IF, VLOOKUP, TEXT functions, etc.)
+
+Exploratory Data Analysis (EDA)
+
+Trend & Distribution Analysis
+
+Data Visualization
+
+Assumption Testing
+
+
+🤝 Open for Collaboration
+
+Got ideas about data cleaning, transformation, or water access analytics?
+Feel free to open an issue or share your approach.
