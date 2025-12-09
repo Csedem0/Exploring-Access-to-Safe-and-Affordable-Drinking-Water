@@ -1,6 +1,6 @@
-## Exploring Access to Safe and Affordable Drinking Water – Part A
+## Exploring Access to Safe and Affordable Drinking Water 1
 
-This repository documents Part A (Week 1) of my integrated project focused on understanding and improving access to safe and affordable drinking water.
+This repository documents Part A of my integrated project focused on understanding and improving access to safe and affordable drinking water.
 This phase centered on learning how to import, clean, explore, and interpret real-world datasets using Google Sheets.
 
 📌 Project Overview
@@ -70,14 +70,14 @@ Feel free to share thoughts, suggestions, or open a discussion.
 
 
 
-## Exploring Access to Safe and Affordable Drinking Water – Part B
+## Exploring Access to Safe and Affordable Drinking Water 2
 
 This repository contains Part B of my ongoing project analyzing real-world data related to access to safe and affordable drinking water.
 After laying the foundation in Week 1, this phase focused on transforming raw data into analysis-ready information that can support meaningful insights.
 
 📌 Project Overview
 
-The goal of Week 2 was to take unstructured, inconsistent datasets and refine them using structured transformation techniques. This meant going beyond surface-level cleaning to ensure the data was accurate, reliable, and ready for deeper exploration.
+The goal of Part B was to take unstructured, inconsistent datasets and refine them using structured transformation techniques. This meant going beyond surface-level cleaning to ensure the data was accurate, reliable, and ready for deeper exploration.
 
 This phase emphasized practical data preparation—the kind that underpins sound decision-making in real-world water accessibility challenges.
 
